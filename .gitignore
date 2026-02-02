@@ -1,0 +1,8 @@
+/bin
+/build
+
+*.swp
+*.vscode/
+*.idea/
+
+.DS_Store
